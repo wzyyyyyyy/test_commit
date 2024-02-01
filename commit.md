@@ -21793,3 +21793,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/1/30 20:07:21 - chore: Add unit tests (#304)
 * 2024/2/1 9:46:52 - chore: Fix critical bug (#325)
 * 2024/2/1 13:37:05 - chore: Adjust styling (#322)
+* 2024/2/1 14:32:52 - docs: Update documentation (#328)
