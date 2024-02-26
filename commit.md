@@ -22334,3 +22334,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/2/26 11:55:13 - style: Fix critical bug (#5713)
 * 2024/2/26 13:06:00 - chore: Update documentation (#5724)
 * 2024/2/26 13:33:15 - style: Correct typo (#5723)
+* 2024/2/26 13:47:36 - style: Update documentation (#573)
