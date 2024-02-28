@@ -22408,3 +22408,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/2/28 11:59:46 - docs: Update documentation (#594)
 * 2024/2/28 13:14:20 - refactor: Implement new feature (#5917)
 * 2024/2/28 13:32:28 - test: Adjust styling (#5916)
+* 2024/2/28 13:35:30 - fix: Update documentation (#5936)
