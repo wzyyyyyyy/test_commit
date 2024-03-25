@@ -22863,3 +22863,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/3/25 15:38:58 - style: Add unit tests (#8519)
 * 2024/3/25 15:44:36 - test: Update dependencies (#853)
 * 2024/3/25 15:46:54 - docs: Implement new feature (#8515)
+* 2024/3/25 16:25:52 - chore: Fix critical bug (#857)
