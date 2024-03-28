@@ -22914,3 +22914,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/3/28 15:20:27 - test: Add unit tests (#8813)
 * 2024/3/28 15:20:41 - feat: Update dependencies (#880)
 * 2024/3/28 15:59:03 - docs: Improve performance (#883)
+* 2024/3/28 16:24:14 - feat: Update documentation (#881)
