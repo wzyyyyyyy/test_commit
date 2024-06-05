@@ -24439,3 +24439,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/6/4 13:14:33 - feat: Fix critical bug (#1561)
 * 2024/6/4 14:41:56 - chore: Update dependencies (#1560)
 * 2024/6/5 10:53:15 - style: Correct typo (#1571)
+* 2024/6/5 11:07:10 - docs: Update documentation (#1570)
