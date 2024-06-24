@@ -24663,3 +24663,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2024/6/24 14:30:49 - docs: Improve performance (#1760)
 * 2024/6/24 14:34:46 - test: Correct typo (#1766)
 * 2024/6/24 15:22:59 - docs: Update documentation (#1765)
+* 2024/6/24 15:53:04 - fix: Update documentation (#1761)
