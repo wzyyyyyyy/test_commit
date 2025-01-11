@@ -27385,3 +27385,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/1/11 16:27:20 - feat: Add unit tests (#117)
 * 2025/1/11 16:40:02 - chore: Update documentation (#114)
 * 2025/1/11 16:43:22 - fix: Correct typo (#110)
+* 2025/1/11 19:55:30 - refactor: Update documentation (#116)
