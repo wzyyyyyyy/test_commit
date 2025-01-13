@@ -27393,3 +27393,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/1/13 10:04:05 - style: Update documentation (#137)
 * 2025/1/13 10:11:43 - feat: Update dependencies (#139)
 * 2025/1/13 11:28:11 - chore: Add unit tests (#130)
+* 2025/1/13 11:32:57 - fix: Fix critical bug (#136)
