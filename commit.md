@@ -27548,3 +27548,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/1/29 19:14:44 - style: Correct typo (#299)
 * 2025/1/29 21:11:20 - test: Improve performance (#290)
 * 2025/1/30 9:02:19 - feat: Improve performance (#306)
+* 2025/1/30 9:51:36 - chore: Update documentation (#309)
