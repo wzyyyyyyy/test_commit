@@ -27783,3 +27783,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/3/6 15:50:07 - feat: Update documentation (#655)
 * 2025/3/6 15:58:59 - style: Implement new feature (#6515)
 * 2025/3/6 16:12:34 - chore: Correct typo (#658)
+* 2025/3/6 17:05:52 - fix: Update documentation (#6528)
