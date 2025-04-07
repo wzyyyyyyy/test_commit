@@ -28473,3 +28473,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/4/7 14:48:44 - fix: Correct typo (#973)
 * 2025/4/7 15:00:05 - fix: Update documentation (#971)
 * 2025/4/7 16:04:22 - feat: Correct typo (#975)
+* 2025/4/7 16:25:26 - chore: Fix critical bug (#972)
