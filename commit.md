@@ -28973,3 +28973,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/5/1 16:12:50 - refactor: Improve performance (#12130)
 * 2025/5/1 16:44:33 - style: Adjust styling (#12133)
 * 2025/5/1 16:59:58 - fix: Update dependencies (#12131)
+* 2025/5/1 17:07:00 - fix: Fix critical bug (#12136)
