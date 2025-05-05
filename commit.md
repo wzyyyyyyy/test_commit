@@ -29042,3 +29042,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/5/5 10:09:21 - fix: Correct typo (#12514)
 * 2025/5/5 10:37:17 - feat: Update dependencies (#1252)
 * 2025/5/5 10:47:01 - feat: Implement new feature (#1256)
+* 2025/5/5 10:59:05 - refactor: Fix critical bug (#12510)
