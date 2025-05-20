@@ -29545,3 +29545,4 @@ Update on 2025-07-10 13:10:17 using LibGit2Sharp
 * 2025/5/20 16:23:03 - fix: Update dependencies (#1407)
 * 2025/5/20 17:07:57 - style: Add unit tests (#14020)
 * 2025/5/20 17:13:39 - style: Improve performance (#14028)
+* 2025/5/20 17:34:27 - chore: Fix critical bug (#14026)
